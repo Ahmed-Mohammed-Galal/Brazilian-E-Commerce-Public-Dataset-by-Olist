@@ -102,108 +102,8 @@ project/
 │
 └── README.md
 
-# 🛍️ Brazilian E-Commerce Analytics Dashboard
 
-<img src="Images/Olist_ecommerce_analytics_banner_1280x720_true_quality.gif" width="100%">
 
-An end-to-end data analytics project built using the Olist Brazilian E-Commerce Public Dataset.
-The project transforms raw e-commerce data into an interactive Power BI dashboard, covering the complete analytics workflow — from data cleaning with Python to data modeling, DAX measures, and dashboard design.
-
-### The dashboard provides insights into:
-* 📈 Revenue performance
-* 🛒 Product performance
-* 👥 Customer behavior
-* 🚚 Delivery performance
-* ⭐ Customer satisfaction
-
----
-
-## 📌 Table of Contents
-1. [About the Project](#-about-the-project)
-2. [Dataset](#️-dataset)
-3. [Tools & Technologies](#️-tools--technologies)
-4. [Project Workflow](#-project-workflow)
-5. [Repository Structure](#-repository-structure)
-6. [Downloads](#-downloads)
-7. [Dashboard Pages](#-dashboard-pages)
-8. [Key Insights](#-key-insights)
-9. [Design System](#-design-system)
-10. [How to Use](#️-how-to-use)
-11. [Author](#-author)
-
----
-
-## 📖 About the Project
-This project analyzes approximately 100,000 e-commerce orders placed on the Olist marketplace between 2016 and 2018 across multiple Brazilian states.
-The main objective is to transform raw relational e-commerce data into a structured and interactive analytics solution that supports data-driven decision-making.
-
-**The project follows a complete data analytics workflow:**
-* Cleaning and preprocessing raw data using Python and Pandas
-* Preparing clean CSV files for analysis
-* Building a relational data model in Power BI
-* Creating business KPIs and calculations using DAX
-* Designing an interactive and visually consistent dashboard
-
----
-
-## 🗂️ Dataset
-**Source:** Olist Brazilian E-Commerce Public Dataset
-The dataset contains approximately 100K anonymized orders from the Olist marketplace and covers the period between 2016 and 2018.
-
----
-
-## 🛠️ Tools & Technologies
-* **Python** (Data cleaning and preprocessing)
-* **Pandas** (Data manipulation and transformation)
-* **Jupyter Notebook** (Data cleaning workflow)
-* **Power BI Desktop** (Data modeling, DAX measures, and dashboard development)
-* **DAX** (Business calculations and KPIs)
-* **Figma** (Dashboard background design and color palette planning)
-
----
-
-## 🔄 Project Workflow
-
-**1️⃣ Data Cleaning & Preprocessing**
-The raw Olist dataset was cleaned and prepared using Python and Pandas. The Python notebook used for this process is available in the `Data_Cleaning/` folder, and the processed data was exported as CSV files.
-
-**2️⃣ Data Modeling**
-A relational data model was created in Power BI to connect the main entities (Orders, Customers, Products, etc.).
-
-**3️⃣ DAX Measures & KPIs**
-Custom DAX measures were created for metrics such as Total Revenue, Total Orders, Average Delivery Days, and On-Time Delivery Rate.
-
-**4️⃣ Dashboard Design**
-The dashboard features a custom 1280x720 background created in Figma, a unified color palette, and custom icons to ensure a consistent user experience.
-
----
-
-## 📁 Repository Structure
-
-```text
-project/
-│
-├── 📂 Data_Cleaning/              # Python notebooks for data preparation
-│   └── cleaning 1.ipynb           # Data cleaning and preprocessing script
-│
-├── 📂 data/                       # Download from Google Drive (Link below)
-│   ├── project.pbix               # Power BI Dashboard file
-│   └── cleaned_*.csv              # Cleaned CSV files used in the model
-│
-├── Icons/                         # All custom icons used in the dashboard
-│
-├── Images/                        # Screenshots and banners
-│   ├── Olist_ecommerce_analytics_banner_1280x720_true_quality.gif
-│   ├── Screenshot 2026-09-04 220413.png
-│   ├── Screenshot 2026-09-04 220434.png
-│   ├── Screenshot 2026-09-07 134256.png
-│   └── Screenshot 2026-09-07 141410.png
-│
-├── Theme/                         # Dashboard design assets
-│   ├── Untitled.png               # Background designed using Figma
-│   └── color_palette.png          # Color palette used across the dashboard
-│
-└── README.md
 ```
 
 ---
@@ -300,5 +200,5 @@ The dashboard follows a consistent visual design system. The design assets are s
 ## 👤 Author
 Built as a portfolio data analytics project using the public Olist Brazilian E-Commerce Public Dataset.
 
-Connect with me on [LinkedIn](ضع رابط حسابك هنا) or reach out via [Email](mailto:ضع_إيميلك_هنا).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-mohammed-9645b138b?utm_source=share_via&utm_content=profile&utm_medium=member_android) or reach out via [Email](ag2852049@gmail.com).
 
