@@ -113,44 +113,97 @@ Simply extract the folder and open `project.pbix` using Power BI Desktop. Since 
 
 ## 📊 Dashboard Pages
 
+---
+
+## 🏠 Dashboard Pages
+
 ### 🏠 Landing Page
 The dashboard starts with a custom Landing Page designed to provide a clear entry point for users.
 
+<p align="center">
+  <img src="Images/Screenshot 2026-09-04 220413.png" width="90%">
+</p>
+
+---
+
 ### 1️⃣ Overview
-<img src="Images/Screenshot 2026-09-04 220413.png" width="100%">
 A high-level view of overall business performance including Total Revenue by Month and Top Product Categories.
 
+<p align="center">
+  <img src="Images/Screenshot 2026-09-04 220413.png" width="90%">
+</p>
+
+---
+
 ### 2️⃣ Product Performance
-<img src="Images/Screenshot 2026-09-04 220434.png" width="100%">
 A detailed analysis of product categories, sales volume, and average prices.
 
+<p align="center">
+  <img src="Images/Screenshot 2026-09-04 220434.png" width="90%">
+</p>
+
+---
+
 ### 3️⃣ Customer Analysis
-<img src="Images/Screenshot 2026-09-07 134256.png" width="100%">
 An analysis of customer distribution and revenue contribution across Brazilian states.
 
+<p align="center">
+  <img src="Images/Screenshot 2026-09-07 134256.png" width="90%">
+</p>
+
+---
+
 ### 4️⃣ Delivery & Satisfaction
-<img src="Images/Screenshot 2026-09-07 141410.png" width="100%">
 An analysis of delivery performance and its relationship with customer review scores.
 
+<p align="center">
+  <img src="Images/Screenshot 2026-09-07 141410.png" width="90%">
+</p>
+
+---
+
 ## 💡 Key Insights
-* **Revenue Is Concentrated:** A relatively small number of product categories generate a significant share of total revenue.
-* **Geography Impacts Delivery:** Customers in remote northern states experience delivery times that are more than twice the national average.
-* **Credit Cards Dominate:** Credit cards generate more than 78% of total revenue.
-* **Delivery Impacts Satisfaction:** Longer delivery periods are generally associated with lower customer satisfaction scores.
+
+| Insight | Description |
+|---|---|
+| 📊 **Revenue Is Concentrated** | A relatively small number of product categories generate a significant share of total revenue. |
+| 🌍 **Geography Impacts Delivery** | Customers in remote northern states experience delivery times more than twice the national average. |
+| 💳 **Credit Cards Dominate** | Credit cards generate more than 78% of total revenue. |
+| ⭐ **Delivery Impacts Satisfaction** | Longer delivery periods are generally associated with lower customer satisfaction scores. |
+
+---
 
 ## 🎨 Design System
+
 The dashboard follows a consistent visual design system. The design assets are stored inside the `Theme/` folder.
+
+<p align="center">
+  <img src="Theme/Untitled.png" width="60%">
+</p>
 
 ---
 
 ## ▶️ How to Use
-1. **Clone the Repository:** `git clone <repository-url>`
+
+1. **Clone the Repository:**
+```bash
+   git clone <repository-url>
+```
 2. **Download Files:** Download the project files from the Downloads section.
 3. **Open Dashboard:** Open `project.pbix` (located inside the downloaded folder) using Power BI Desktop.
 
 ---
 
 ## 👤 Author
-Built as a portfolio data analytics project using the public Olist Brazilian E-Commerce Public Dataset.
 
-Connect with me on **[LinkedIn](https://www.linkedin.com/in/ahmed-mohammed-9645b138b?utm_source=share_via&utm_content=profile&utm_medium=member_android)** or reach out via **[Email](ag2852049@gmail.com)**.
+<p align="center">
+  <img src="Images/Olist_ecommerce_analytics_banner_1280x720_true_quality.gif" width="60%">
+</p>
+
+Built as a portfolio data analytics project using the public **Olist Brazilian E-Commerce Public Dataset**.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-mohammed-9645b138b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
