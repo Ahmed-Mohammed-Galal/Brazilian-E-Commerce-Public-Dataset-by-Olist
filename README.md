@@ -101,6 +101,8 @@ project/
 │   └── color_palette.png          # Color palette used across the dashboard
 │
 └── README.md
+
+
 📥 Downloads
 Due to file size limitations, the cleaned datasets and the Power BI dashboard file are bundled together and hosted on Google Drive.
 
