@@ -136,20 +136,21 @@ A high-level view of overall business performance including Total Revenue by Mon
 
 ---
 
-### 2️⃣ Product Performance
-A detailed analysis of product categories, sales volume, and average prices.
-
-<p align="center">
-  <img src="Images/Screenshot 2026-09-04 220434.png" width="90%">
-</p>
-
----
-
-### 3️⃣ Customer Analysis
+### 2️⃣Customer Analysis
 An analysis of customer distribution and revenue contribution across Brazilian states.
 
 <p align="center">
   <img src="Images/Screenshot 2026-09-07 134256.png" width="90%">
+</p>
+
+
+---
+
+### 3️⃣  Product Performance
+A detailed analysis of product categories, sales volume, and average prices.
+
+<p align="center">
+  <img src="Images/Screenshot 2026-09-04 220434.png" width="90%">
 </p>
 
 ---
