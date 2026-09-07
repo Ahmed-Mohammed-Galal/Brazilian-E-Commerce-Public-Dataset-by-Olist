@@ -73,11 +73,11 @@ project/
 ├── Icons/                                 # All custom icons used throughout the dashboard
 │
 ├── Images/                                # Screenshots and banners for the dashboard pages
-│   ├── Olist_ecommerce_analytics_banner_1280x720_true_quality.gif
-│   ├── Screenshot 2026-09-04 220413.png
-│   ├── Screenshot 2026-09-04 220434.png
-│   ├── Screenshot 2026-09-07 134256.png
-│   └── Screenshot 2026-09-07 141410.png
+│   ├── Images/Olist_ecommerce_analytics_banner_1280x720_true_quality.gif
+│   ├── Images/Screenshot 2026-09-04 220413.png
+│   ├── Images/Screenshot 2026-09-04 220434.png
+│   ├── Images/Screenshot 2026-09-07 134256.png
+│   └── Images/Screenshot 2026-09-07 141410.png
 │
 ├── Theme/                                 # Dashboard design assets
 │   ├── Untitled.png                       # Background designed using Figma
