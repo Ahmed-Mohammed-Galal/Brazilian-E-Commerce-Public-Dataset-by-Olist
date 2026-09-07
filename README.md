@@ -109,20 +109,25 @@ Due to file size limitations, the cleaned datasets and the Power BI dashboard fi
 After downloading:
 Simply extract the folder and open project.pbix using Power BI Desktop. Since the dashboard and the CSV files are in the same folder, Power BI will successfully access the data without any path errors.
 
-📊 Dashboard Pages
-🏠 Landing Page
+## 📊 Dashboard Pages
+
+### 🏠 Landing Page
 The dashboard starts with a custom Landing Page designed to provide a clear entry point for users.
 
-1️⃣ Overview
+### 1️⃣ Overview
+<img src="Images/Screenshot 2026-09-04 220413.png" width="100%">
 A high-level view of overall business performance including Total Revenue by Month and Top Product Categories.
 
-2️⃣ Product Performance
+### 2️⃣ Product Performance
+<img src="Images/Screenshot 2026-09-04 220434.png" width="100%">
 A detailed analysis of product categories, sales volume, and average prices.
 
-3️⃣ Customer Analysis
+### 3️⃣ Customer Analysis
+<img src="Images/Screenshot 2026-09-07 134256.png" width="100%">
 An analysis of customer distribution and revenue contribution across Brazilian states.
 
-4️⃣ Delivery & Satisfaction
+### 4️⃣ Delivery & Satisfaction
+<img src="Images/Screenshot 2026-09-07 141410.png" width="100%">
 An analysis of delivery performance and its relationship with customer review scores.
 
 💡 Key Insights
