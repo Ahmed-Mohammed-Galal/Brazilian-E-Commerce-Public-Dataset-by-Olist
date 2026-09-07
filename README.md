@@ -123,9 +123,7 @@ Simply extract the folder and open `project.pbix` using Power BI Desktop. Since 
 ### 🏠 Landing Page
 The dashboard starts with a custom Landing Page designed to provide a clear entry point for users.
 
-<p align="center">
-  <img src="Images/Screenshot 2026-09-04 220413.png" width="90%">
-</p>
+<p align="center"> <img src="Images/Olist_ecommerce_analytics_banner_1280x720_true_quality.gif" width="90%"> </p>
 
 ---
 
