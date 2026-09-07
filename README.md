@@ -103,13 +103,13 @@ project/
 └── README.md
 
 
-📥 Downloads
+## 📥 Downloads
 Due to file size limitations, the cleaned datasets and the Power BI dashboard file are bundled together and hosted on Google Drive.
 
-📊 Download the Project Files (Data & Dashboard)
+* 📊 **[Download the Project Files (Data & Dashboard)](https://drive.google.com/drive/folders/1VoGovxHIo1BEpLPzocN6Y_r_JgMVFBIL?usp=sharing)**
 
-After downloading:
-Simply extract the folder and open project.pbix using Power BI Desktop. Since the dashboard and the CSV files are in the same folder, Power BI will successfully access the data without any path errors.
+**After downloading:**
+Simply extract the folder and open `project.pbix` using Power BI Desktop. Since the dashboard and the CSV files are in the same folder, Power BI will successfully access the data without any path errors.
 
 ## 📊 Dashboard Pages
 
@@ -132,26 +132,25 @@ An analysis of customer distribution and revenue contribution across Brazilian s
 <img src="Images/Screenshot 2026-09-07 141410.png" width="100%">
 An analysis of delivery performance and its relationship with customer review scores.
 
-💡 Key Insights
-Revenue Is Concentrated: A relatively small number of product categories generate a significant share of total revenue.
+## 💡 Key Insights
+* **Revenue Is Concentrated:** A relatively small number of product categories generate a significant share of total revenue.
+* **Geography Impacts Delivery:** Customers in remote northern states experience delivery times that are more than twice the national average.
+* **Credit Cards Dominate:** Credit cards generate more than 78% of total revenue.
+* **Delivery Impacts Satisfaction:** Longer delivery periods are generally associated with lower customer satisfaction scores.
 
-Geography Impacts Delivery: Customers in remote northern states experience delivery times that are more than twice the national average.
+## 🎨 Design System
+The dashboard follows a consistent visual design system. The design assets are stored inside the `Theme/` folder.
 
-Credit Cards Dominate: Credit cards generate more than 78% of total revenue.
+---
 
-Delivery Impacts Satisfaction: Longer delivery periods are generally associated with lower customer satisfaction scores.
+## ▶️ How to Use
+1. **Clone the Repository:** `git clone <repository-url>`
+2. **Download Files:** Download the project files from the Downloads section.
+3. **Open Dashboard:** Open `project.pbix` (located inside the downloaded folder) using Power BI Desktop.
 
-🎨 Design System
-The dashboard follows a consistent visual design system. The design assets are stored inside the Theme/ folder.
+---
 
-▶️ How to Use
-Clone the Repository: git clone <repository-url>
-
-Download Files: Download the project files from the Downloads section.
-
-Open Dashboard: Open project.pbix (located inside the downloaded folder) using Power BI Desktop.
-
-👤 Author
+## 👤 Author
 Built as a portfolio data analytics project using the public Olist Brazilian E-Commerce Public Dataset.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-mohammed-9645b138b?utm_source=share_via&utm_content=profile&utm_medium=member_android) or reach out via Email.
+Connect with me on **[LinkedIn](https://www.linkedin.com/in/ahmed-mohammed-9645b138b?utm_source=share_via&utm_content=profile&utm_medium=member_android)** or reach out via **[Email](ag2852049@gmail.com)**.
